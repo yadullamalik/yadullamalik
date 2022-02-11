@@ -11,7 +11,6 @@
 
 <h3>Like to</h3>
 
-<p>🏸- Play Carrom<p>
 <P>- 🌱 I’m currently learning **Web development**.</P>
 <p>✍️ - Practicing Shorthand</p> 
 <P>🎶 - Listening to Music</p>
@@ -24,10 +23,8 @@
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-<img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 </p>
 
 <br/>
@@ -37,7 +34,7 @@
 <br/>
 
 <p>
-<a href="https://www.linkedin.com/in/sajan-madaan-b6b4ab146/" target="blank"><img width="30px" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-madaan" /></a> <a href="https://medium.com/@SajanMadaan" target="blank"><img width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLRbwp1YPbunjt8Ii9q_AFj6zmZFxi_QzdULEKERT8gm3VBdl9e44JDwcTqH_86_nuXU&usqp=CAU" alt="s-madaan" /></a> <a title="madanraghav7@gmail.com" href="mailto:madanraghav7@gmail.com" target="blank"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" alt="s-madaan" /></a> <a href="https://twitter.com/SajanMadaan7" target="blank"><img width="30px" height="30px"  src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" alt="s-madaan" /></a> <a href="https://www.hackerrank.com/madanraghav7" target="blank"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="s-madaan" /></a>
+<a href="http://linkedin.com/in/yadulla-malik-shaik-07258b226" target="blank"><img width="30px" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yadulla Malik" /></a> <a title="shaikyadullamalik123@gmail.com" href="mailto:shaikyadullamalik123@gmail.com" target="blank"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" alt="Yadulla Malik" /></a> <a href="https://twitter.com/yadulla_malik" target="blank"><img width="30px" height="30px"  src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" alt="Yadulla Malik" /></a>
 
 </p>
 
