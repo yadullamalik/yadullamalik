@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Yadulla Malik Shaik</h1>
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean  and efficient code.</i></h3>
+<h3>- <i>A passionate full-stack web developer with an ability to write efficient code using javascript, and build interactive and user-friendly websites.</i></h3>
 
 <br/>
 <br/>
